@@ -1,5 +1,5 @@
 ## Bom dia.👋
-Me chamo **Matheus Podence** e sou estudante de desenvolvimento web na trybe. 
+Me chamo **Matheus Podence**, sou estudante de desenvolvimento web na trybe. 
 
 ### Sobre mim:
 

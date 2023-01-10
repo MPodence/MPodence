@@ -7,9 +7,7 @@ Me chamo **Matheus Podence**, sou estudante de desenvolvimento web na trybe.
 - Cursei 5 semestres de Segurança da Informação na FATEC São Caetano do Sul.
 - Tenho bastante interesse em algum dia desenvolver games.
 - Meus hobbies são: ir à academia, relaxar jogando uns games nas horas vagas, sentir que estou aprendendo ou progredindo em algo, sou uma pessoa competitiva.
-- Aqui vão meus projetos principais*
-- Aqui vai meu email*
-- Aqui vai meu currículo*
+- Email para contato: podence23@gmail.com
 
 ### Linguagens e ferramentas:
 
